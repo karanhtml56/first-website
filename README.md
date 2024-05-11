@@ -1,1 +1,1 @@
-autor name-karan thakur
+author name-karan thakur
